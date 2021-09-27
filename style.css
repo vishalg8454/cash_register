@@ -50,4 +50,7 @@ li{
     display: inline;
     padding: 10px
 }
+a{
+    text-decoration: none;
+}
   
